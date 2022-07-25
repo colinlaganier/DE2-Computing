@@ -1,6 +1,6 @@
 # Tetromino 
 
-![Tetromino_Cover](./Figures/Tetromino_Cover.png)
+![Tetromino_Cover](./Figures/tetromino_cover.png)
 
 Algorithm to solve the tetriling with missing pieces problem from randomly generated grids using Tetris pieces. Greedy algorithm using a binary search tree and a depth first search approach. 
 
